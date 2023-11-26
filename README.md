@@ -1,6 +1,46 @@
 <h1 align="center">Hi 👋, I'm Rashad Javadov</h1>
 <h3 align="center">A passionate lead software engineer</h3>
 
+
+<p align="left"> 
+Summary: An accomplished Lead Software Engineer with a proven track record in Java development, cloud technologies, and project management. Adept in providing technology leadership, devising innovative solutions, and ensuring project success. Fluent in English, proficient in Russian, and native in Azerbaijani and Turkish.
+</p>
+
+<h3 align="center">Education:</h3>  
+<li/> Baku State University, Bachelor of Applied Science in Applied Mathematics (2007 - 2011)  
+<li/> The George Washington University, Specialization course in Project Management (2014 - 2015)  
+
+
+<h3 align="center">Certificates:</h3>  
+<li/>	Oracle Certified Professional, Java SE 7 Programmer
+<li/>	Oracle Certified Oracle Database SQL Expert
+<li/>	MongoDB University Certifications (M101J, MongoDB Basics)
+<li/>	GW University Project Management Associate certificate
+
+
+
+
+<h3 align="center">Languages:</h3>  
+<li/>	English: Fluent
+<li/>	Russian: Intermediate
+<li/>	Azerbaijani: Native
+<li/>	Turkish: Native
+
+
+<h3 align="center">Development Skills:</h3>  
+<li/>	OS Shell: Windows, Mac OS, Unix
+<li/>	Database: Oracle, MySQL, MongoDB, Postgres, Vertica, DynamoDB
+<li/>	Java: Spring, Hibernate, Dropwizard, JMS, Java EE
+<li/>	Cloud: Amazon Web Services, MongoDB Atlas, Google Cloud
+<li/>	Additional: Docker, Camel, Kafka, Kubernetes, Splunk
+<li/>	Dev Tools: Jira, Jenkins, TeamCity, Git, SVN, SonarQube, Maven, Gradle
+<li/>	Scripting: Python, Shell Scripting
+<li/>	Testing: Cucumber, Postman
+
+
+
+
+<br/><br/><br/><br/>
 <p align="left"> <a href="https://twitter.com/rashjz" target="blank"><img src="https://img.shields.io/twitter/follow/rashjz?logo=twitter&style=for-the-badge" alt="rashjz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
