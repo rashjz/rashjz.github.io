@@ -1,31 +1,30 @@
 <h1 align="center">Hi 👋, I'm Rashad Javadov</h1>
 <h3 align="center">A passionate lead software engineer</h3>
-
+<br/>
 
 <p align="left"> 
 Summary: An accomplished Lead Software Engineer with a proven track record in Java development, cloud technologies, and project management. Adept in providing technology leadership, devising innovative solutions, and ensuring project success. Fluent in English, proficient in Russian, and native in Azerbaijani and Turkish.
 </p>
+<br/>
 
 <h3 align="center">Education:</h3>  
 <li/> Baku State University, Bachelor of Applied Science in Applied Mathematics (2007 - 2011)  
 <li/> The George Washington University, Specialization course in Project Management (2014 - 2015)  
-
+<br/>
 
 <h3 align="center">Certificates:</h3>  
 <li/>	Oracle Certified Professional, Java SE 7 Programmer
 <li/>	Oracle Certified Oracle Database SQL Expert
 <li/>	MongoDB University Certifications (M101J, MongoDB Basics)
 <li/>	GW University Project Management Associate certificate
-
-
-
+<br/>
 
 <h3 align="center">Languages:</h3>  
 <li/>	English: Fluent
 <li/>	Russian: Intermediate
 <li/>	Azerbaijani: Native
 <li/>	Turkish: Native
-
+<br/>
 
 <h3 align="center">Development Skills:</h3>  
 <li/>	OS Shell: Windows, Mac OS, Unix
