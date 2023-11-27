@@ -60,6 +60,6 @@ Summary: An accomplished Lead Software Engineer with a proven track record in Ja
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashjz&show_icons=true&locale=en&layout=compact&theme=transparent" alt="rashjz" />
 </p>
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rashjz&show_icons=true&locale=en&theme=transparent" alt="rashjz" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rashjz&show_icons=true&locale=en&theme=transparent" alt="rashjz" />
 </p>
 <br/>
