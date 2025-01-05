@@ -46,19 +46,8 @@ Summary: An accomplished Lead Software Engineer with a proven track record in Ja
 </p>
 
 <p align="left"> 
-    <a 
-        href="https://www.amazon.com/author/rashad" 
-        target="_blank" 
-        style="display: flex; align-items: center; justify-content: center; background-color: #FF9900; color: white; border: none; border-radius: 5px; padding: 10px 15px; font-size: 16px; font-weight: bold; text-decoration: none; cursor: pointer; transition: background-color 0.3s ease;"
-        onmouseover="this.style.backgroundColor='#CC7A00';" 
-        onmouseout="this.style.backgroundColor='#FF9900';">
-        <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" 
-            alt="Amazon Icon" 
-            style="width: 20px; height: 20px; margin-right: 10px;"
-        >
-        Follow on Amazon
-    </a>
+<a href="https://www.amazon.com/author/rashad" target="_blank">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Icon" style="width: 50px; height: 15px; margin-right: 10px;" >Follow on Amazon</a>
 </p>
 
 <br/>
