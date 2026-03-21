@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rashad Javadov - Lead Software Engineer</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap');
+        
+        :root {
+            --bg: #0a0a0a;
+            --fg: #e0e0e0;
+            --accent: #00f5ff;
+        }
+        
+        body {
+            margin: 0;
+            padding: 0;
+            background: var(--bg);
+            color: var(--fg);
+            font-family: 'Inter', system_ui, sans-serif;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+        
+        .header {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            background: radial-gradient(circle at center, #1a1a2e 0%, #0a0a0a 70%);
+        }
+        
+        .glow {
+            position: absolute;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(0,245,255,0.15) 0%, transparent 70%);
+            border-radius: 50%;
+            filter: blur(80px);
+            z-index: 0;
+        }
+        
+        .content {
+            text-align: center;
+            z-index: 1;
+            max-width: 800px;
+            padding: 0 20px;
+        }
+        
+        h1 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 4.5rem;
+            margin: 0;
+            background: linear-gradient(90deg, #00f5ff, #ffffff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -2px;
+        }
+        
+        h3 {
+            font-size: 1.4rem;
+            font-weight: 500;
+            opacity: 0.9;
+            margin: 20px 0 40px;
+        }
+        
+        .links {
+            display: flex;
+            gap: 16px;
+            justify-content: center;
+            margin: 40px 0;
+        }
+        
+        .btn {
+            padding: 14px 32px;
+            border: 2px solid var(--accent);
+            color: var(--accent);
+            text-decoration: none;
+            border-radius: 9999px;
+            font-weight: 600;
+            transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .btn:hover {
+            background: var(--accent);
+            color: #000;
+            transform: translateY(-3px);
+            box-shadow: 0 0 30px rgba(0, 245, 255, 0.5);
+        }
+        
+        .section {
+            padding: 100px 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(0,245,255,0.1);
+            border-radius: 20px;
+            padding: 32px;
+            margin-bottom: 24px;
+            transition: transform 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-8px);
+            border-color: var(--accent);
+        }
+        
+        .tag {
+            display: inline-block;
+            background: rgba(0,245,255,0.1);
+            color: var(--accent);
+            padding: 4px 14px;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            margin-right: 8px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 60px 20px;
+            opacity: 0.6;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="glow" style="top: 20%; left: 20%;"></div>
+        <div class="glow" style="bottom: 20%; right: 25%;"></div>
+        
+        <div class="content">
+            <h1>RASHAD JAVADOV</h1>
+            <h3>Lead Software Engineer & Tech Lead</h3>
+            <p style="font-size:1.1rem; max-width:600px; margin:0 auto 30px; opacity:0.85;">
+                13+ years architecting large-scale financial platforms.<br>
+                Currently leading modernization at EPAM.
+            </p>
+            
+            <div class="links">
+                <a href="https://www.linkedin.com/in/rashjz/" class="btn" target="_blank">LinkedIn</a>
+                <a href="https://github.com/rashjz" class="btn" target="_blank">GitHub</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2 style="text-align:center; font-size:2.2rem; margin-bottom:60px; letter-spacing:-1px;">Featured Work</h2>
+        
+        <div class="card">
+            <h3>Open Account Journeys & Auto Rollover Platform</h3>
+            <p>Technical lead for next-generation retirement and brokerage account platform serving millions of transactions.</p>
+            <div><span class="tag">Java</span><span class="tag">Spring Boot</span><span class="tag">GraphQL</span><span class="tag">AWS EKS</span><span class="tag">DynamoDB</span></div>
+        </div>
+        
+        <div class="card">
+            <h3>Customer Onboarding Modernization</h3>
+            <p>Led end-to-end modernization and legacy system decommissioning for a major financial institution.</p>
+        </div>
+        
+        <div class="card">
+            <h3>Data Pipeline & CDC Architecture</h3>
+            <p>Designed high-scale change data capture system using event-driven architecture.</p>
+        </div>
+    </div>
+
+    <footer>
+        © Rashad Javadov • Built with neon and ambition
+    </footer>
+</body>
+</html>
