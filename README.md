@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/rashjz/rashjz/blob/main/assets/header.svg" width="100%" alt="Header"/>
+<img src="https://github.com/rashjz/rashjz/blob/main/assets/Gemini_Generated_Image_9cjpdc9cjpdc9cjp.png" width="100%" alt="Header"/>
 
 <h1>Rashad Javadov</h1>
 <h3>Lead Software Engineer & Tech Lead • 13+ years architecting high-scale financial systems on AWS</h3>
