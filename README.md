@@ -1,30 +1,28 @@
-<h1 align="center">Hi 👋, I'm Rashad Javadov</h1>
-<h3 align="center">Lead Software Engineer & Tech Lead | 13+ years building scalable financial platforms on AWS</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://twitter.com/rashjz"><img src="https://img.shields.io/twitter/follow/rashjz?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/rashjz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<img src="https://github.com/rashjz/rashjz/blob/main/assets/header.svg" width="100%" alt="Header"/>
 
----
+<h1>Rashad Javadov</h1>
+<h3>Lead Software Engineer & Tech Lead • 13+ years architecting high-scale financial systems on AWS</h3>
 
-**Currently leading** large-scale modernization initiatives in financial services — designing microservices, event-driven architectures, and cloud-native platforms that handle millions of transactions.
-
-### Featured Work
-- **Open Account Journeys & Auto Rollover Platform** — Team Lead on retirement & brokerage account platform (Java, Spring Boot, GraphQL, AWS EKS, DynamoDB, Kinesis, Lambda)
-- **Customer Onboarding Modernization** — Owned end-to-end delivery of a major legacy replacement system
-- **Data Pipeline & CDC Redesign** — Architected high-throughput change data capture systems
-
-### Tech Stack
-**Backend** — Java, Spring Boot, GraphQL, Microservices  
-**Cloud** — AWS (EKS, Lambda, DynamoDB, Kinesis, S3, CloudWatch)  
-**Observability** — Honeycomb, Splunk, PagerDuty  
-**Other** — Kubernetes, Docker, PostgreSQL, CI/CD (Bamboo, GitHub Actions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashjz/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rashjz)
 
 ---
 
-*Always learning. Currently deep into AI agents, investment systems, and clean architecture.*
+**Building the future of finance.**  
+Currently leading major modernization programs at EPAM for retirement, brokerage, and onboarding platforms.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashjz&show_icons=true&theme=tokyonight&hide_title=true" alt="Stats"/>
-</p>
+### Key Initiatives
+- **Open Account Journeys & Auto Rollover Platform** — Technical lead for next-gen retirement & brokerage account system (Java • Spring Boot • GraphQL • AWS EKS • DynamoDB • Kinesis • Lambda)
+- **Customer Onboarding Modernization** — Owned full delivery and legacy decommissioning for a major financial institution
+- **Data Pipeline & CDC Architecture** — Designed and led high-throughput change data capture redesign
+
+### Tech Arsenal
+`Java` `Spring Boot` `GraphQL` `AWS` `Kubernetes` `EKS` `DynamoDB` `Kinesis` `Lambda` `Honeycomb` `Splunk` `Microservices` `Event-Driven` `CI/CD`
+
+*Obsessed with clean architecture, AI agents, investment tooling, and shipping production-grade systems.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashjz&show_icons=true&theme=radical&hide_title=true&hide_rank=true)
+
+</div>
